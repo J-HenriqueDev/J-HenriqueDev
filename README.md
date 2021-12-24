@@ -1,9 +1,5 @@
 <img align="right" width="150" height="150" src="https://i.pinimg.com/564x/2f/9c/11/2f9c11f9e55efbf1791f12c06d60729b.jpg">
 
-## Social
-[![Instagram URL](https://img.shields.io/twitter/url?color=%231DA1F2&label=Siga-me&logo=instagram&logoColor=%231DA1F2&style=flat-square&url=https://www.instagram.com/http.neo_/)](https://www.instagram.com/http.neo_/)
-![](https://komarev.com/ghpvc/?username=HenriqueNeo&color=blue&style=flat)
-
 # Welcome to my github 😄
 - 🌱 I’m currently learning JavaScrip and Node.js ...
 - 📫 How to reach me: contato.henrique_@hotmail.com
@@ -28,8 +24,7 @@
  
 <div> 
 <a href="https://instagram.com/http.neo_" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-target="_blank"></a>
-<a href="https://discord.gg/27ZNe79" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a>  
+</a>  
 <a href = "mailto:contato.henrique_@hotmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
  
   ![Snake animation](https://github.com/ThomasHartmannDev/ThomasHartmannDev/blob/output/github-contribution-grid-snake.svg) 
