@@ -1,9 +1,9 @@
 <img align="right" width="150" height="150" src="https://i.pinimg.com/564x/2f/9c/11/2f9c11f9e55efbf1791f12c06d60729b.jpg">
 
-# Welcome to my github 😄
-- 🌱 I’m currently learning JavaScrip and Node.js ...
-- 📫 How to reach me: contato.henrique_@hotmail.com
-- 😄 Pronouns: he/him
+# Welcome to my github 😄'
+- 🌱 Atualmente estudando TypeScript e Node.js ...
+- 📫 E-mail para Contato: contato.henrique_@hotmail.com
+- 😄 Pronomes: he/him
 
 <div>
   <a href="https://github.com/J-HenriqueDev">
