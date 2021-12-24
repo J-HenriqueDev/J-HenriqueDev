@@ -1,4 +1,4 @@
-<img align="right" width="150" height="150" src="https://i.pinimg.com/564x/2f/9c/11/2f9c11f9e55efbf1791f12c06d60729b.jpg">
+<img align="right" width="120" height="120" src="https://i.pinimg.com/564x/2f/9c/11/2f9c11f9e55efbf1791f12c06d60729b.jpg">
 
 # Welcome to my github 😄'
 - 🌱 Atualmente estudando TypeScript e Node.js ...
