@@ -3,7 +3,7 @@
 # Welcome to my github 😄
 - 🌱 Atualmente estudando Php, css, JavaScript ...
 - 📫 E-mail para Contato: contato.henrique_@hotmail.com
-- 😄 Pronomes: he/him
+
 
 <div>
   <a href="https://github.com/J-HenriqueDev">
