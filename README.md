@@ -3,6 +3,7 @@
 # Welcome to my github 😄
 - 🌱 Atualmente estudando Php, css, JavaScript ...
 - 📫 E-mail para Contato: contato.henrique_@hotmail.com
+- 😉 Tenho poucos trabalhos em meu github, mas gosto de aprender coisas novas !
 
 
 <div>
